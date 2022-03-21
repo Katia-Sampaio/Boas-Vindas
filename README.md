@@ -6,8 +6,7 @@ Atualmente estou cursando o 1º semestre em Analise e desenvolvimento de sistema
 <div align="center">
   <a href="https://github.com/Dev-katiaS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-katiaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-katiaS&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  
   <div style="display: inline_block"><br>
   
    
