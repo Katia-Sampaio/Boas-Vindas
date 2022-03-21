@@ -1,6 +1,5 @@
-Olá, Eu sou Katia Sampaio
-
-Atualmente estou cursando o 1º semestre de ADS no Senac-Sp 👩‍💻
+Olá, Eu sou Katia Sampaio,
+Atualmente estou cursando o 1º semestre em Analise e desenvolvimento de sistemas no Senac-Sp 👩‍💻
 🚀 
 
 <div align="center">
