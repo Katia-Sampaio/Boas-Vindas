@@ -6,9 +6,7 @@ Olá, Eu sou Katia Sampaio ^_^
 
 
 <div align="center">
-  <a href="https://github.com/Dev-katiaS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-katiaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
+  <a href="https://github.com/Dev-katiaS"> 
   <div style="display: inline_block"><br>
   
    
