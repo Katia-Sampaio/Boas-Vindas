@@ -1,7 +1,7 @@
 Olá, Eu sou Katia Sampaio ^_^
 
 • 📚 Atualmente estou cursando o 2º semestre em Analise e desenvolvimento de sistemas no Centro Universitário Senac Santo Amaro  
-• 🔭Busco meu primeiro estágio na área.                                                                                        
+                                                                                       
 • 👩‍💻Linguagens: Java, HTML, CSS e JavaScirpt.
 
 
