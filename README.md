@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/katia-sampaio-980b351a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-  ### Tecnologias usadas no meu dia a dia:
+  ### Tecnologias e ferramentas:
   <div style="display: inline_block" gap="30%" align="center"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
